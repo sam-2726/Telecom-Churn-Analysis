@@ -9,77 +9,77 @@ Customer churn is a major challenge in the telecom industry due to high competit
 
 The goal of this project is to:
 
-Analyze customer data to identify churn patterns
+* Analyze customer data to identify churn patterns
 
-Understand factors influencing customer churn
+* Understand factors influencing customer churn
 
-Identify high-risk customer segments
+* Identify high-risk customer segments
 
-Provide business recommendations to reduce churn
+* Provide business recommendations to reduce churn
 
 📁 Dataset Description
 
 The project uses multiple datasets:
 
-customers.csv → Customer demographic and subscription details
+* customers.csv → Customer demographic and subscription details
 
-service_usage.csv → Customer usage behavior
+* service_usage.csv → Customer usage behavior
 
-transactions.csv → Payment and billing information
+* transactions.csv → Payment and billing information
 
-support_tickets.csv → Customer service interactions
+* support_tickets.csv → Customer service interactions
 
 Total Records: 500 customers
 
 🛠️ Tools & Technologies Used
 
-Excel → Data cleaning and data audit
+* Excel → Data cleaning and data audit
 
-SQL → Data extraction and analysis queries
+* SQL → Data extraction and analysis queries
 
-Python (Pandas, Jupyter Notebook) → Data analysis and aggregation
+* Python (Pandas, Jupyter Notebook) → Data analysis and aggregation
 
-Power BI → Dashboard creation and visualization
+* Power BI → Dashboard creation and visualization
 
-GitHub → Project documentation and version control
+* GitHub → Project documentation and version control
 
 📈 Dashboard Overview
 
 The dashboard provides:
 
-Total Customers
+* Total Customers
 
-Churned Customers
+* Churned Customers
 
-Churn Rate %
+* Churn Rate %
 
-Customer Churn Breakdown
+* Customer Churn Breakdown
 
-Plan Type vs Customer Status
+* Plan Type vs Customer Status
 
-Tenure vs Customer Status
+* Tenure vs Customer Status
 
-Interactive filters (Region, Plan Type, Payment Method)
+* Interactive filters (Region, Plan Type, Payment Method)
 
 🔍 Key Insights
 
-Customers with shorter tenure show higher churn rates.
+* Customers with shorter tenure show higher churn rates.
 
-Basic and Standard plan users have higher churn compared to premium users.
+* Basic and Standard plan users have higher churn compared to premium users.
 
-Customers with frequent service issues or lower engagement tend to churn more.
+* Customers with frequent service issues or lower engagement tend to churn more.
 
-Payment method and service experience influence customer retention.
+* Payment method and service experience influence customer retention.
 
 💡 Business Recommendations
 
-Provide loyalty benefits for new customers during early months.
+* Provide loyalty benefits for new customers during early months.
 
-Improve service quality and reduce customer support issues.
+* Improve service quality and reduce customer support issues.
 
-Offer personalized upgrade plans for high-risk customers.
-
-Introduce retention offers for customers with declining engagement.
+* Offer personalized upgrade plans for high-risk customers.
+  
+* Introduce retention offers for customers with declining engagement.
 
 ✅ Project Outcome
 
@@ -87,5 +87,5 @@ This analysis helps telecom businesses understand customer behavior, reduce chur
 
 👤 Author
 
-SAM JOSHUA D
-Data Analyst | SQL | Python | Power BI | Excel
+| SAM JOSHUA D
+| Data Analyst | SQL | Python | Power BI | Excel.
