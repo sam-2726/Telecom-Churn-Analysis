@@ -15,9 +15,6 @@ This project analyzes telecom customer churn to identify factors influencing cus
 - Basic and Standard plans have higher churn rates.
 - Customers with frequent support issues are more likely to churn.
 
-## Dashboard Preview
-(Add your dashboard image here)
-
 ## Business Recommendations
 - Improve onboarding experience for new customers.
 - Provide loyalty offers for long-term customers.
